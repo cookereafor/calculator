@@ -1,0 +1,103 @@
+.calculator {
+    width: 400px;
+    background-color: black;
+    height: 95vh;
+    border-radius: 13%;
+  margin-left: auto;
+  margin-right: auto; 
+    padding: 3px;
+ 
+
+        
+}
+
+.head-space {
+    height: 5vh;
+    background-color: black;
+    width: 370px;
+    margin-left: 14px;
+   border-top-right-radius: 300%;
+    border-top-left-radius: 300%;
+    margin-top: 20px;
+        
+}
+
+.screen {
+    height:25vh;
+    width:380px;
+    background-color: grey;
+    border-radius: 3%;
+    margin-top: 2px;
+    margin-left: 10px;
+        
+}
+
+.button-container {
+    width: 395px;
+     margin-top: 20px;
+    margin-left: 30px; 
+      
+}
+
+.first-line {
+    height:10vh; 
+    border-radius: 3%;
+    margin-top: 2px;
+}
+
+.second-line {
+    height:10vh;  
+    border-radius: 3%;
+    margin-top: 2px;
+}
+
+.third-line {
+    height:10vh; 
+    border-radius: 3%;
+    margin-top: 2px;
+}
+
+.fourth-line {
+    height:10vh; 
+    border-radius: 3%;
+    margin-top: 2px;
+}
+
+.fifth-line {
+    height:10vh; 
+    border-radius: 3%;
+    margin-top: 2px;
+}
+
+button {
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    background-color: darkgrey;
+    cursor: pointer;
+
+        
+}
+
+#last-button {
+    background-color: orange;
+}
+
+#ash-button {
+    background-color: lightslategrey;
+}
+
+#oval-button {
+    width: 160px;
+    border-radius: 40%
+}
+
+h3 {
+    color: white;
+    font-size: 25px
+}
+
+button:hover {
+  background-color: #10333a;
+  
+}
